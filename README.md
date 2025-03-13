@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
