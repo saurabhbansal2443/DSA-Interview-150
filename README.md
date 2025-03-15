@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0189-rotate-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0134-gas-station) |
 ## Divide and Conquer
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String
 |  |
 | ------- |
