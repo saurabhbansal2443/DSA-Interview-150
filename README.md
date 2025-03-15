@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
