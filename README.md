@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
