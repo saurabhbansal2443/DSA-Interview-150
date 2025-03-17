@@ -29,4 +29,12 @@ class Solution {
 
         return sum ; 
     }
+
+    // in this question we have firstly taken all the value of roman number into map 
+    // then the value of the caharcter is selected according to charcter whoch is next to
+    // it if that is greater than currentValue we have to take that value as negative value 
+    // for example IV the I value depend on V as V is greater than I that's why we have 
+    // taken as -1 and similary it goes for every charcter but the last character will 
+    //always a positive as e dont have next character then adding all the values and 
+    //returning the sum  
 }
