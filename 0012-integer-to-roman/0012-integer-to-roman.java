@@ -16,4 +16,8 @@ class Solution {
 
         return sb.toString(); 
     }
+
+    // in this solution we have made all the diffrent possible values stored in a array and then uses
+    // the subtraction technique to solve this question we are just trying to use maximum symbol 
+    // to get the result so we are subtracting the value and appending the symbol 
 }
