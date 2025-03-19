@@ -24,4 +24,8 @@ class Solution {
 
         return sb.toString(); 
     }
+
+    // in this question we have sorted the array so that the diffrent string comes at the first anfd
+    // last position then i have started iterated in the first and last string then started to see 
+    // the common character between them and stored them and finally return 
 }
