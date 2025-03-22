@@ -21,9 +21,12 @@ class Solution {
 
         return sum ; 
     }
-
+   // in this question we have to basically find the water trapped between the building 
+    // a array is given to us that is basically the heights of builder and they are assumed
+    // to be connected to each other so
     // in this question we have taken a approach finding the leftmax array and rightMax
     // array which contains the value of the maximum value at the left before that value 
     // same for right max and then taking the minimum out of it as water can be stored till 
-    // the minimum wall and deleting the height of the current building and adding that 
+    // the minimum wall and deleting the height of the current building and adding that to 
+    // total water and after this loop returning the water 
 }
