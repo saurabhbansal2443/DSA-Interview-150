@@ -7,15 +7,12 @@ class Solution {
             }
             return ; 
         }
-
         int p1 = m-1 ; 
         int p2 = n-1 ; 
         int p3 = m+n-1 ; 
-
         while( p1 >=0 || p2>=0){
             int val1 = p1>=0 ? nums1[p1] : Integer.MIN_VALUE ; 
             int val2 = p2>=0 ? nums2[p2] : Integer.MIN_VALUE ; 
-
             if( val1 > val2 ){
                 nums1[p3] = val1 ; 
                 p1-- ; 
@@ -25,9 +22,11 @@ class Solution {
             }
             p3--; 
         }
-        
-
     }
 }
-
-// The question is 2 merge 2 sorted array but the catch is we have to merge both the array in first array, so we have started traversing both the array from last and taken 3 pointer p1, p2 , p3 and then started filling the nums1 array from last to avoid using extra spaces becuase in last the extra spaces are empty 
+//The question is to merge 2 sorted array but the catch is 
+//we have to merge both the array in first array, 
+//so we have started traversing both the array from last and taken 
+//3 pointer p1, p2 , p3 and then started filling the nums1 array 
+//from last to avoid using extra spaces because 
+//in last the extra spaces are empty 
