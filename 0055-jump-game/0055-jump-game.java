@@ -1,4 +1,4 @@
-class Solution {
+    class Solution {
     public boolean canJump(int[] nums) {
         int jump = nums[0]; 
 
@@ -13,7 +13,9 @@ class Solution {
 
         return true ; 
     }
-
+    // in this question there is a array given in which the element signifies
+    // the number of jumps from that index so and we to find can we reach the 
+    // last index soo 
     // in this question we have used a logic we are calculating the highest 
     // number of index we can reach so we are adding the index and value if 
     // at any index we can reach the maximum value that means last index 
