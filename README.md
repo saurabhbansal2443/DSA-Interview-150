@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0189-rotate-array) |
@@ -130,9 +131,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
