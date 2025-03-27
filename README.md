@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
