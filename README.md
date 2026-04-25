@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -160,12 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
