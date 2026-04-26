@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
+| [0445-add-two-numbers-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
