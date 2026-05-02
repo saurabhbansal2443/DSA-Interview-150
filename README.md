@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0392-is-subsequence) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0445-add-two-numbers-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
