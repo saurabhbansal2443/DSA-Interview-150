@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0125-valid-palindrome) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0445-add-two-numbers-ii) |
