@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0704-binary-search) |
+| [1019-next-greater-node-in-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/1019-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,10 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0042-trapping-rain-water) |
+| [1019-next-greater-node-in-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/1019-next-greater-node-in-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
