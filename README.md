@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0135-candy) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0392-is-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0445-add-two-numbers-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
