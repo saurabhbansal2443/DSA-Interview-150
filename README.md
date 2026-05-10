@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0169-majority-element) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0232-implement-queue-using-stacks) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
