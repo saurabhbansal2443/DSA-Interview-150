@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0295-find-median-from-data-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
