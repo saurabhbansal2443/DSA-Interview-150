@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
