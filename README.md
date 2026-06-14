@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/1019-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0994-rotting-oranges) |
 ## Memoization
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0994-rotting-oranges](https://github.com/saurabhbansal2443/DSA-Interview-150/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
